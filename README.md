@@ -1,7 +1,9 @@
 # UserScripts
 A bunch of userscripts I made (hopefully there will be a bunch in the future)
 
-## YoutubeScripts
+Each userscript is it's own git repo (submodule) within this repo. If you'd like to clone all the submodules, please remember to set the `--recursive` flag when cloning.
+
+## YoutubeLeash
 This script simply hides the recommended side bar at the right of the screen when watching videos, as well as the comments section.
 
 ## When2Meet
